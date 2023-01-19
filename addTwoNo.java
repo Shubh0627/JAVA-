@@ -3,6 +3,7 @@ public class addTwoNo {
        int a = 12;
        int b= 13;
        int c = a+b;
-        System.out.println(c);
+        int d = c+a+b;
+        System.out.println(d);
     }
 }
